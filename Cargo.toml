@@ -1,5 +1,11 @@
 [package]
-name="trellis"
-version="0.0.0"
+name = "trellis"
+version = "v0.0.0"
+authors = "Gene Dan <genedan@gmail.com>"
+license = "MPL-2.0"
+description = "Rust-based actuarial reserving backend"
+readme = "README.md"
+repository = "https://github.com/genedan/trellis"
+edition = "2021"
 
 [dependencies]
